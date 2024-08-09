@@ -1,0 +1,15 @@
+*
+{
+    background-color: pink;
+}
+.head1
+{
+    text-align: center;
+    color: brown;
+    font-family: serif;
+    text-decoration: underline;
+}
+.div1
+{
+    display: flex;
+}

@@ -1,0 +1,27 @@
+*
+{
+    background-color: tan;
+}
+.head1
+{
+    text-align: center;
+    color: brown;
+    text-decoration:underline;
+}
+.div1
+{
+    display: flex;
+    text-align: center;
+}
+.head2
+{
+    margin-left: 50px;
+    margin-top: 50px;
+    color: brown;
+
+}
+
+.head3
+{
+    margin-top: 100px;
+}
